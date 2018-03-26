@@ -1,4 +1,4 @@
-# How OpenBCI products go together?
+# How do OpenBCI products go together?
 
 ![image](../assets/images/How_products_go_together.png)
 
